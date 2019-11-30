@@ -1,0 +1,16 @@
+{
+  "name": "minits-preprocessor",
+  "version": "1.0.0",
+  "description": "preprocessor for minits with ts-transformer plugin",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^12.12.14",
+    "lodash": "^4.17.15",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.2"
+  }
+}
